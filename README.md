@@ -1,1 +1,1 @@
-# -Exercices-of-conditions-and-variables-JS
+# Exercices-of-conditions-and-variables-JS
